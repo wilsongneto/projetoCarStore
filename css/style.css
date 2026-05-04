@@ -80,3 +80,21 @@ textarea {
 .campo-obrigatorio {
     color: #d80835;
 }
+
+.caixaInputs {
+    margin-bottom: 35px;
+}
+
+.block {
+    display: block;
+}
+
+.caixaOpcional {
+    display: inline-block;
+    margin: 0 30px 0 30px;
+}
+
+.caixaOpcional li {
+    list-style: none;
+    margin-bottom: 5px;
+}
